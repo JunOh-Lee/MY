@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//Please don't change class name 'Main'
-
 class Calculator{
     int left, right;
     Double left2, right2;
